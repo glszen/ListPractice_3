@@ -8,6 +8,7 @@ Properties:
 
 *IMDb Rating (Double)
 *Movie Name (String)
+
 Usage
 
 1- Add Movies: Enter the movie name and rating.
@@ -15,6 +16,7 @@ Usage
 2- Loop: After each entry, choose to add another movie ("Y" for yes, "N" for no).
 
 Outputs
+
 On exit, it displays:
 
 1- All entered movies and ratings.
