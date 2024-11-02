@@ -9,7 +9,7 @@ Properties:
 *IMDb Rating (Double)
 *Movie Name (String)
 
-Usage
+Usage:
 
 1- Add Movies: Enter the movie name and rating.
 
@@ -25,7 +25,7 @@ On exit, it displays:
 
 3- Movies starting with 'A'.
 
-Requirements
+Requirements:
 
 *.NET Framework.
 *Basic C# knowledge recommended.
